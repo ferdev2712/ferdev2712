@@ -49,15 +49,4 @@ I am a novice programmer with a great hunger for knowledge willing to work, I lo
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-ferdev2712-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferdev2712/)](https://www.linkedin.com/in/ferdev2712/) [![Gmail Badge](https://img.shields.io/badge/-ferdev2712@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferdev2712@gmail.com)](mailto:ferdev2712@gmail.com)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
-</p>
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
