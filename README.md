@@ -1,6 +1,6 @@
  # <a href="https://www.linkedin.com/in/ferdev2712/">Fernando Marquez</a> :smiley:
  
-<a href="https://linkedin.com/in/ashwanisng">
+<a href="https://linkedin.com/in/ferdev2712">
   <img align="left" alt="Fer's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ferdev2712">
